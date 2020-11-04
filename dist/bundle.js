@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("app").innerHTML="我现在在使用Babel!"})();
